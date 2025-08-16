@@ -1,3 +1,6 @@
+![Image Alt Text](https://i.ibb.co/k24415b/Github-Banner.gif)
+
+
 # 💫 About Me:
 👋 Hey, I’m Anindya Hazra<br><br>💻 BCA Student | Aspiring Full-Stack Developer | Tech Enthusiast<br>🚀 Passionate about creating practical, real-world applications using modern technologies.<br>🌱 Currently learning MERN Stack and Java (OOPs) for backend development.<br>📚 Exploring fields like AI-based tools, web automation, and IoT-inspired projects.
 
