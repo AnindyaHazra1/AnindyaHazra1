@@ -24,9 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AnindyaHazra1&icon=1&color=0)](https://visitcount.itsvg.in)
 
-
-  ## 💰 You can help me by Donating
-<a href="hazramonoj04@ybl"><img src="[https://raw.githubusercontent.com/AnindyaHazra1/AnindyaHazra1/refs/heads/main/PhonePe-logo-new.jpg]" align="left" height="30" width="80" ></a>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
