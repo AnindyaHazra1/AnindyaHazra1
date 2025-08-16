@@ -1,4 +1,4 @@
-![Image Alt Text](https://i.ibb.co/k24415b/Github-Banner.gif)
+![](https://raw.githubusercontent.com/AnindyaHazra1/AnindyaHazra1/refs/heads/main/Anindya%20Hazra.png)
 
 
 # 💫 About Me:
